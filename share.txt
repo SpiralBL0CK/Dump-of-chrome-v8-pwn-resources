@@ -1523,11 +1523,6 @@ https://twitter.com/itszn13/status/1293973559270756352
 https://twitter.com/itszn13
 https://twitter.com/itszn13/status/1410979575853731840/photo/1
 https://twitter.com/itszn13
-https://twitter.com/home
-https://twitter.com/home
-https://twitter.com/home
-https://twitter.com/
-https://twitter.com/
 https://www.google.com/search?q=deoptimisation+cve+v8&sxsrf=AOaemvL-x0r-86gPD49Tz_ik3PHnHJTnlg:1637346264629&ei=2OuXYbXsJe_2qwHtpL2wDg&start=0&sa=N&ved=2ahUKEwi1uOiThqX0AhVv-yoKHW1SD-Y4WhDy0wN6BAgBED4&biw=1745&bih=852&dpr=1.1
 https://www.google.com/search?q=deoptimisation+cve+v8&sxsrf=AOaemvL-x0r-86gPD49Tz_ik3PHnHJTnlg:1637346264629&ei=2OuXYbXsJe_2qwHtpL2wDg&start=0&sa=N&ved=2ahUKEwi1uOiThqX0AhVv-yoKHW1SD-Y4WhDy0wN6BAgBED4&biw=1745&bih=852&dpr=1.1
 https://www.google.com/search?q=deoptimisation+cve+v8&sxsrf=AOaemvJ8BhwTLKzZrkjTlCGrg9AKI5iKCQ:1637346186900&ei=iuuXYdSsNoCGwPAPtf6_4AE&start=90&sa=N&ved=2ahUKEwjUmeDuhaX0AhUAAxAIHTX_Dxw4UBDy0wN6BAgBEE8&biw=1745&bih=852&dpr=1.1
@@ -1721,7 +1716,6 @@ https://www.anquanke.com/post/id/253048
 https://www.anquanke.com/post/id/253048
 https://lukeolney.me/posts/v8-turbolier/
 https://ret2.life/posts/Google-CTF-2021/
-https://www.instagram.com/direct/inbox/
 https://github.com/WSP-LAB/Montage
 https://teams.microsoft.com/_#/conversations/General?threadId=19:848gszIUJsC2LXuqitRazyvNAL8iyPj6GOsaoENvv1g1@thread.tacv2&ctx=channel
 https://github.com/chromedp/omahaproxy
